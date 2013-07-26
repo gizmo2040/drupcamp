@@ -20,3 +20,10 @@ git branch -> nos dice cuales son las branches que existen
 git branch {nombre del branch} -> crea un nuevo branch
 
 git checkout {branch name} -> nos cambia al branch que le indiquemos
+
+git fetch origin --all -> nos trae todas la branches que esten en el servidor
+
+git merge {nombre del branch} -> mezcla los cambios del branch(nombre del branch) 									en el branch que temos seleccionado
+
+git log -> nos da el historial del repo
+
