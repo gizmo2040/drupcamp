@@ -1,4 +1,5 @@
 drupcamp
+=========
 drupcamp cambio agregando nueva informacion al readme.
 
 branch test
@@ -16,3 +17,4 @@ git branch -> nos dice cuales son las branches que existen
 git branch {nombre del branch} -> crea un nuevo branch
 
 git checkout {branch name} -> nos cambia al branch que le indiquemos
+git merge
