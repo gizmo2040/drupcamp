@@ -5,7 +5,8 @@ drupcamp
 
 
 drupcamp cambio agregando nueva informacion al readme.
-rafa hizo un cambio aqui :p
+
+
 hice otro cambio para practicar
 
 git clone -> clona el repositorio del servidor
@@ -21,3 +22,6 @@ git branch -> nos dice cuales son las branches que existen
 git branch {nombre del branch} -> crea un nuevo branch
 
 git checkout {branch name} -> nos cambia al branch que le indiquemos
+
+:) mi cambio 
+>>>>>>> daniela
